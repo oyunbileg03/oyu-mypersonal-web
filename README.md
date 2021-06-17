@@ -1,2 +1,2 @@
 # oyu-mypersonal-web
-oyu-personal
+oyu-mywebpage
